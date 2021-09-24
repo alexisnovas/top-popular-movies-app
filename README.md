@@ -3,7 +3,7 @@
 Top 100 Most Popular Movies App developed using Xamarin Forms for educational purposes.
 
 ## Features:
-- List top most popular movies using the IMDB API.
+- List top 100 most popular movies using the IMDB API.
 
 ## About the IMDB Api:
 
