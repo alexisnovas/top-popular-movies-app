@@ -27,9 +27,9 @@ You can find it on: https://imdb-api.com/
 #### Empty State Appereance
 ![EmptyState](/Screenshots/EmptyStateView.PNG)
 
-How to get the API Key
+## How to get the API Key
 
-Registe on https://imdb-api.com/ an follow the steps below.
+Register on https://imdb-api.com/ an follow the steps below.
 
 #### Step 1 - Go to user settings
 ![GetApiKey1](/Screenshots/GetApiKeyStep1.PNG)
