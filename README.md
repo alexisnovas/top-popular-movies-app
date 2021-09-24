@@ -34,7 +34,7 @@ Register on https://imdb-api.com/ an follow the steps below.
 #### Step 1 - Go to user settings
 ![GetApiKey1](/Screenshots/GetApiKeyStep1.PNG)
 
-#### Step 2 - Click on 'profile'
+#### Step 2 - Click on 'Profile'
 ![GetApiKey2](/Screenshots/GetApiKeyStep2.png)
 
 #### Step 3 - Copy your API key
