@@ -1,9 +1,9 @@
-# Gmail Clone App With MVVM
+# Top 100 Movies App
 
-Top Most Popular Movies App developed using Xamarin Forms for educational purposes.
+Top 100 Most Popular Movies App developed using Xamarin Forms for educational purposes.
 
 ## Features:
-- List top most popular movies using the IMDB API
+- List top most popular movies using the IMDB API.
 
 ## About the IMDB Api:
 
