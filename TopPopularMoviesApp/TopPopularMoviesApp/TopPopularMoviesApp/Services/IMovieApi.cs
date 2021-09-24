@@ -9,8 +9,8 @@ namespace TopPopularMoviesApp.Services
 {
     public interface IMovieApi
     {
-        // Get API key here -> 
-        [Get("/en/API/MostPopularMovies/k_lr7ijm2d")]
+        // Register and Get your API key here (More Info on Readme file)-> https://imdb-api.com/
+        [Get("/en/API/MostPopularMovies/PASTE_YOUR_API_KEY_HERE")]
         Task<HttpResponseMessage> GetMoviesAsync();
     }
 }
