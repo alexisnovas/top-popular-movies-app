@@ -19,10 +19,10 @@ You can find it on: https://imdb-api.com/
 ### Screenshots of the app
 
 #### Movies Page (Capture 1)
-![MoviePage1](/Screenshots/MoviePage1.PNG)
+![MoviePage1](/Screenshots/MoviePage2.PNG)
 
-#### Movies Page (Capture 1)
-![MoviePage2](/Screenshots/MoviePage2.PNG)
+#### Movies Page (Capture 2)
+![MoviePage2](/Screenshots/MoviePage1.PNG)
 
 #### Empty State Appereance
 ![EmptyState](/Screenshots/EmptyStateView.PNG)
