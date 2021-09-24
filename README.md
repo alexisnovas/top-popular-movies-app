@@ -19,20 +19,20 @@ You can find it on: https://imdb-api.com/
 ### Screenshots of the app
 
 #### Movies Page (Capture 1)
-![MoviePage1](/Screenshots/MoviePage1.png)
+![MoviePage1](/Screenshots/MoviePage1.PNG)
 
 #### Movies Page (Capture 1)
-![MoviePage2](/Screenshots/MoviePage2.png)
+![MoviePage2](/Screenshots/MoviePage2.PNG)
 
 #### Empty State Appereance
-![EmptyState](/Screenshots/EmptyStateView.png)
+![EmptyState](/Screenshots/EmptyStateView.PNG)
 
 How to get the API Key
 
 Registe on https://imdb-api.com/ an follow the steps below.
 
 #### Step 1 - Go to user settings
-![GetApiKey1](/Screenshots/GetApiKeyStep1.png)
+![GetApiKey1](/Screenshots/GetApiKeyStep1.PNG)
 
 #### Step 2 - Click on 'profile'
 ![GetApiKey2](/Screenshots/GetApiKeyStep2.png)
