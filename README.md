@@ -11,7 +11,7 @@ The IMDb-API is a web service for receiving movie, serial and cast information. 
 
 Endpoint used in project:
 ``GET MostPopularMovies
-https://imdb-api.com/en/API/MostPopularMovies/k_12345678 ``
+https://imdb-api.com/en/API/MostPopularMovies/PASTE_API_KEY ``
 
 You can find it on: https://imdb-api.com/
 
