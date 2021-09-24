@@ -9,11 +9,11 @@ Top 100 Most Popular Movies App developed using Xamarin Forms for educational pu
 
 The IMDb-API is a web service for receiving movie, serial and cast information. APIs results is a JSON and includes items such as movie specifications, images, posters, trailers, ratings, Wikipedia page content and more.
 
+You can find it on: https://imdb-api.com/
+
 Endpoint used in project:
 ``GET MostPopularMovies
 https://imdb-api.com/en/API/MostPopularMovies/PASTE_API_KEY ``
-
-You can find it on: https://imdb-api.com/
 
 ## Technologies:
 - Xamarin Forms
