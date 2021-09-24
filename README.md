@@ -32,13 +32,13 @@ How to get the API Key
 Registe on https://imdb-api.com/ an follow the steps below.
 
 #### Step 1 - Go to user settings
-![EmptyState](/Screenshots/GetApiKeyStep1.png)
+![GetApiKey1](/Screenshots/GetApiKeyStep1.png)
 
 #### Step 2 - Click on 'profile'
-![EmptyState](/Screenshots/GetApiKeyStep2.png)
+![GetApiKey2](/Screenshots/GetApiKeyStep2.png)
 
 #### Step 3 - Copy your API key
-![EmptyState](/Screenshots/GetApiKeyStep3.png)
+![GetApiKey3](/Screenshots/GetApiKeyStep3.png)
 
 #### Step 4 - Paste it on the code
-![EmptyState](/Screenshots/GetApiKeyStep4.png)
+![GetApiKey4](/Screenshots/GetApiKeyStep4.png)
